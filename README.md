@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asahina Mafuyu</h1>
-<h3 align="center">Don't forget to touch grass hommy</h3>
+<h3 align="center"> to touch grass </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/r4ksG0-F9P4AAAAC/nilou-genshin-impact.gif">
 
 - 🌱 **Github, programming stuff**
