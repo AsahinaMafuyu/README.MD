@@ -2,9 +2,9 @@
 <h3 align="center">Don't forget to touch grass hommy</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/r4ksG0-F9P4AAAAC/nilou-genshin-impact.gif">
 
-- 🌱 I’m currently learning **Github, programming stuff**
+- 🌱 **Github, programming stuff**
 
-- ⚡ Fun fact **Im broke 💀💀💀, and I like things that are forbidden**
+- ⚡  **Im broke 💀💀💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
